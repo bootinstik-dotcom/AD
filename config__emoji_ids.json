@@ -1,0 +1,7 @@
+{
+  "ordered_ids": [],
+  "runtime_mapping": {
+    "decoration": "PREMIUM_EMOJI_DECORATION_ID"
+  },
+  "note": "The original AdServiceBot custom emoji ID list was not present in the starter archive. Never invent IDs. Keep any supplied list in exact order including duplicates. ReplyKeyboardButton does not support custom_emoji_id; the runtime supports a custom emoji entity in message text when the secret is configured."
+}
